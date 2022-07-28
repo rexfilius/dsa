@@ -23,7 +23,7 @@ b. Secondary operation
 
 The heap is a binary tree that maintains the following
 conditions:
-1. The value of each node must be greater than each of its descendant nodes. (otherwise for a min-heap)
+1. For a Max-Heap; the value of each node must be greater than each of its descendant nodes. For a Min-Heap; the value of each node must be lesser than each of its descendant nodes.
 2. The tree must be complete.
 
 A complete tree is a tree that is completely filled with nodes; no nodes are missing. So, if you read each level of the tree from left to right, all of the nodes are there. However, the bottom row can have empty positions, as long as there aren't any nodes to the right of these empty positions.

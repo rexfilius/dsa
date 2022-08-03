@@ -44,6 +44,7 @@ A heap is a better structure for implementing a Priority Queue.
 1. using a heap (natural choice)
 2. using a sorted array
 3. using a balanced binary search tree
+4. using a linked list
 
 <u>Operations on a Priority Queue</u>
 1. enqueue - inserts a value to the queue 

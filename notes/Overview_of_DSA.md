@@ -1,19 +1,16 @@
 @27-June-2022
 
-<u>Abstract Data Types</u>
-1. List
-2. Set
+<u>Data Structures</u>
+1. Set
+2. List or Array
 3. Stack
 4. Queue
-5. Priority Queue
-
-<u>Data Structures</u>
-1. Array
-2. Linked List := Single, Double
-3. Map or HashTable or Dictionary or Associative Array
-4. Binary Tree := BST, AVL, Red-Black, Binary Heap (Max & Min)
-5. Trie (still grasping)
-6. Graph (still grasping)
+5. Priority Queue 
+6. Linked List := Single, Double
+7. Map or HashTable or Dictionary or Associative Array
+8. Binary Tree := BST, AVL, Red-Black, Binary Heap (Max & Min)
+9. Trie (still grasping)
+10. Graph (still grasping)
 
 <u>Algorithm Techniques</u>
 1. Recursion

@@ -1,10 +1,7 @@
 <u>Queue</u>
 A queue is another data structure designed to process temporary data. It’s like a stack in many ways, except that it processes data in a different order. 
 
-Like a stack, a queue is also an abstract data type.
-You can think of a queue as a line of people at the movie theater.
-The first one in the line is the first one to leave the line and enter
-the theater. 
+Like a stack, a queue is also an abstract data type. You can think of a queue as a line of people at the movie theater. The first one in the line is the first one to leave the line and enter the theater. 
 
 With queues, the first item added to the queue is the first item to be removed. That’s why computer scientists apply the acronym “FIFO” to queues: First In, First Out.
 

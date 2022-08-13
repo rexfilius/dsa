@@ -2,7 +2,8 @@
 A tree in which each node has at most two children, often referred to as the left and right children
 
 <u>Traversal operations on a Binary Tree</u> 
-In-order, Pre-order, Post-order - O(n) time and space.
+1. In-order, Pre-order, Post-order - all are O(n) time and space and are depth first traversals.
+2. breadth first travesal.
 
 <u>Nomenclature on Tree</u>
 1. The uppermost node is called the root.
@@ -34,8 +35,8 @@ Insertion in a BST always takes just one extra step beyond a search, which means
 It emerges that in a worst-case scenario, when a tree is completely imbalanced, search is O(N). In a best-case scenario, when it is perfectly balanced, search is O(log N). In the typical scenario, in which data is inserted in random order, a tree will be pretty well balanced and search will take about O(log N).
 
 Deletion algorithm for a BST:
-1. if the node being deleted has no children, simple delete it
-2. if the node being deleted has one child, delete the node and plug the child into the spot where the deleted node was
+1. if the node being deleted has no children, simply delete it.
+2. if the node being deleted has one child, delete the node and plug the child into the spot where the deleted node was.
 3. when deleting a node with two children, replace the deleted node with the successor node. The successor node is the child node whose value is the least of all values that are greater than the deleted node.
 4. To find the successor node; visit the right child of the deleted value, and then keep on visiting the left child of each subsequent child until there are no more left children. The bottom value is the successor node.
 5. if the successor node has a right child; after plugging the successor node into the spot of the deleted node, take the former right child of the successor node and turn it into the left child of the former parent of the successor node.

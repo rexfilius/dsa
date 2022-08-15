@@ -1,4 +1,4 @@
-@27-June-2022
+@15-Aug-2022
 
 <u>Data Structures</u>
 1. Set
@@ -8,9 +8,10 @@
 5. Priority Queue 
 6. Linked List := Single, Double
 7. Map or HashTable or Dictionary or Associative Array
-8. Binary Tree := BST, AVL, Red-Black, Binary Heap (Max & Min)
-9. Trie (still grasping)
-10. Graph (still grasping)
+8. Binary Tree := BST, AVL, Red-Black
+9. Binary Heap := Max, Min
+10. Trie (still grasping)
+11. Graph (still grasping)
 
 <u>Algorithm Techniques</u>
 1. Recursion

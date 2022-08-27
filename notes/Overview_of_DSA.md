@@ -11,7 +11,7 @@
 8. Binary Tree := BST, AVL, Red-Black
 9. Binary Heap := Max, Min
 10. Trie (still grasping)
-11. Graph (still grasping) [FreeCodeCamp: Graph Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=tWVWeAqZ0WU)
+11. Graph (still grasping)
 
 <u>Algorithm Techniques</u>
 1. Recursion

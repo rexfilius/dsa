@@ -35,15 +35,15 @@ delete = O(1)
 lookup/search = O(1)
 peek = null
 
-(7) Heap
-insert = O(logN)
-delete = O(logN)
+(7) Priority Queue (on a Heap)
+insert = O(1)
+delete = O(1)
 lookup/search = null
 peek = O(1)
 
-(8) Priority Queue (on a Heap)
-insert = O(1)
-delete = O(1)
+(8) Heap
+insert = O(logN)
+delete = O(logN)
 lookup/search = null
 peek = O(1)
 

@@ -10,8 +10,8 @@
 7. Map or HashTable or Dictionary or Associative Array
 8. Binary Tree := BST, AVL, Red-Black
 9. Binary Heap := Max, Min
-10. Trie (still grasping)
-11. Graph (still grasping)
+10. Graph
+11. Trie (still grasping)
 
 <u>Algorithm Techniques</u>
 1. Recursion

@@ -6,3 +6,7 @@ Map
 - there is HashMap, LinkedHashMap and SplayTreeMap. 
 - The default map (represented by curly braces {}) is the LinkedHashMap.
 - LinkedHashMap preseves the insertion order, HashMap does not.
+3. Kotlin
+- there is the concept of MutableMap (read&write) and Map(read-only)
+- either ways, the default implementation in Kotlin is a LinkedHashMap, that preserves the order of elements insertion when iterating the map.
+- LinkedHashMap and HashMap are the implementations of the Map interface in Kotlin.

@@ -1,4 +1,4 @@
-<u>Strengths of Data Structures</u>
+<u>ANALYSIS OF DATA STRUCTURES</u>
 **List or Array**
 insert (at end) = O(1)
 delete (at end) = O(1)

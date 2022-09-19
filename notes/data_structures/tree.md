@@ -2,14 +2,14 @@
 A tree in which each node has at most two children, often referred to as the left and right children
 
 <u>Traversal operations on a Binary Tree</u> 
-1. In-order, Pre-order, Post-order - all are O(n) time and space and are depth first traversals.
+1. In-order, Pre-order, Post-order - all are O(n) time and space, and are categorized under depth first traversals.
 2. breadth first travesal.
 
 <u>Nomenclature on Tree</u>
 1. The uppermost node is called the root.
 2. A node's descendants are all the nodes that stem from a node, while a node's ancestors are all the nodes that it stems from.
 3. Trees are said to have levels. Each level is a row within the tree.
-4. A tree is balanced when ts nodes' subtrees have the same number of nodes in it.
+4. A tree is balanced when its nodes' subtrees have the same number of nodes in it.
 
 ***
 <u>Binary Search Tree (BST)</u>

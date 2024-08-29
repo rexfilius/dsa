@@ -11,7 +11,7 @@ A tree in which each node has at most two children, often referred to as the lef
 3. Trees are said to have levels. Each level is a row within the tree.
 4. A tree is balanced when its nodes' subtrees have the same number of nodes in it.
 
-***
+
 <u>Binary Search Tree (BST)</u>
 BST is a data structure that facilitates fast lookup, insert and removal operations - it also maintains order.
 
@@ -48,7 +48,7 @@ Inorder Traversal:
 2. “Visit” the node. (print the value of the node at this step.)
 3. Call itself (traverse) recursively on the node’s right child. The function will keep getting called until we hit a node that does not have a right child.
 
-***
+
 <u>AVL Tree (Adelson-Velsky Landis)</u>
 An AVL tree is a self-balancing binary search tree.
 
